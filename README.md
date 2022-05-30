@@ -1,4 +1,4 @@
-# Sentiment-Analysis-on-Amazon-reviews-using-Logistic-Regression-and-SVM
+# SENTIMENT ANALYSIS ON AIRPOD REVIEWS FROM AMAZON PLATFORM USING LOGISTIC REGRESSION AND SVM
 # Introduction
 In this project, we will build a sentence-level sentiment analysis model from
 scratch. You first need to organize the data according to some topic, train the model with the collected
